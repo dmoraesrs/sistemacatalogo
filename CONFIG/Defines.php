@@ -3,7 +3,7 @@
 /*
  * Constantes de par�metros para configura��o da conex�o
  */
-define('HOST', 'localhost');
+define('HOST', 'srvdb01labazure.mysql.database.azure.com');
 define('DBNAME', 'trabalho_php');
 define('CHARSET', 'utf8');
 define('USER', 'admindb');
