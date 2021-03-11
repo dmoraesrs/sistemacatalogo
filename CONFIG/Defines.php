@@ -6,8 +6,8 @@
 define('HOST', 'localhost');
 define('DBNAME', 'trabalho_php');
 define('CHARSET', 'utf8');
-define('USER', 'root');
-define('PASSWORD', '');
+define('USER', 'admindb');
+define('PASSWORD', '12qwaszx@');
 
 // Setando Erros do php.ini
 ini_set('display_errors',1);
