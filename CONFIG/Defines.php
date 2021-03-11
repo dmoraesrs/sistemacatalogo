@@ -3,11 +3,11 @@
 /*
  * Constantes de par�metros para configura��o da conex�o
  */
-define('HOST', 'srvdb01labazure.mysql.database.azure.com');
-define('DBNAME', 'trabalho_php');
+define('HOST', 'localhost');
+define('DBNAME', 'trabalho_php1');
 define('CHARSET', 'utf8');
 define('USER', 'admindb');
-define('PASSWORD', '12qwaszx@');
+define('PASSWORD', 'assss');
 
 // Setando Erros do php.ini
 
